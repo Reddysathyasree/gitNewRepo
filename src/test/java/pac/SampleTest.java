@@ -24,4 +24,14 @@ public class SampleTest {
 	public void test4() {
 		System.out.println("execute test4");
 	}
+	
+	@Test
+	public void test7() {
+		System.out.println("execute test7");
+	}
+	
+	@Test
+	public void test8() {
+		System.out.println("execute test8");
+	}
 }
